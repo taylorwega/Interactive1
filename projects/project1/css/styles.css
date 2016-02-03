@@ -1,0 +1,48 @@
+body {
+	background-image: url(../images/queen.jpeg);
+	background: #000066;
+	background: linear-gradient(#000066, #ff66ff);
+	
+}
+
+#header {
+	width: 1000px;
+	height:200;
+	padding-top: 72px;
+	margin: auto;
+	color: red;
+	font-family: Impact, sans-serif;
+	text-align: center;
+	font-size: 40px;
+}
+
+#intro {
+	width: 500px;
+	height: 500px;
+	color: #FF005F;
+	font-family: Times, serif;
+	font-weight: lighter;
+	float: bottom;
+	font-size:18px;
+	text-align: left;
+
+}
+h2 {
+	color: aqua;
+	font-family: Impact, sans-serif;
+	font-weight: lighter;
+	text-align: center;
+}
+
+p{
+	color: hotpink;
+	font-family: Helvetica;
+	text-align: left;
+}
+
+ol {
+	font-family: Impact;
+	color: orange;
+	font-size: 120px;
+}
+
