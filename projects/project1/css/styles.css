@@ -77,5 +77,10 @@ p {
 	height: 200px;
 	margin:center;
 	float:bottom;
+	color: #EF3B4B;
+	font-family: impact, sans-serif;
+	font-weight: bolder;
+	font-size: 36px;
+	text-align:bottom;
 }
 
