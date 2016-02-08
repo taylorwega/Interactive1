@@ -1,48 +1,81 @@
 body {
 	background-image: url(../images/queen.jpeg);
-	background: #000066;
-	background: linear-gradient(#000066, #ff66ff);
+	background-repeat: no-repeat;
+
+
 	
 }
 
 #header {
-	width: 1000px;
-	height:200;
-	padding-top: 72px;
+	width: 10000px;
+	height:400px;
+	padding-top:72px;
+	float:center;
 	margin: auto;
-	color: red;
-	font-family: Impact, sans-serif;
-	text-align: center;
-	font-size: 40px;
+	padding-left:200px;
+	
 }
 
 #intro {
-	width: 500px;
-	height: 500px;
-	color: #FF005F;
-	font-family: Times, serif;
+	width: 440px;
+	height: 450px;
+	color: #CCCC33;
+	font-family: impact;
 	font-weight: lighter;
-	float: bottom;
+	float: left;
+	padding-left: 130px;
 	font-size:18px;
 	text-align: left;
+	margin:auto;
 
 }
-h2 {
-	color: aqua;
-	font-family: Impact, sans-serif;
-	font-weight: lighter;
-	text-align: center;
+
+#pullquote {
+	width: 1000px;
+	height: 100px;
+	color: #EF3B4B;
+	float:bottom;
+	font-family: impact, sans-serif;
+	font-weight: bolder;
+	font-size: 32px;
+	text-align:center;
+	margin: auto;
+	
 }
 
-p{
-	color: hotpink;
-	font-family: Helvetica;
+#freddie {
+	width: 572px;
+	height: auto;
+	color: 003366;
+	font-family: impact, sans-serif;
+	font-size: 18px;
 	text-align: left;
+	float:bottom;
+	padding-top: 24px;
+	padding-left: 136px;
+
 }
 
-ol {
-	font-family: Impact;
-	color: orange;
-	font-size: 120px;
+#interviewer {
+	width:572px;
+	height: auto;
+	color:#484848;
+	font-family: impact, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	padding-top: 24px;
+	padding-left: 200px;
+	float: bottom;
+}
+ 
+p {
+	font-family: times;
+}
+
+#link {
+	width:200px;
+	height: 200px;
+	margin:center;
+	float:bottom;
 }
 
